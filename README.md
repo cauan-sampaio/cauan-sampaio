@@ -28,6 +28,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn">
   </a> 
 </div>
+### Automação com Cypress em ação
 
-
-
+Assista ao vídeo abaixo para ver a minha automação em ação:
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7120155106817290241" height="646" width="504" frameborder="0" allowfullscreen="" title="Publicação incorporada"></iframe>

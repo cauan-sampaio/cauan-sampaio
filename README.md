@@ -31,4 +31,5 @@
 ### Automação com Cypress em ação
 
 Assista ao vídeo abaixo para ver a minha automação em ação:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/6XYkE9zvn7M" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6XYkE9zvn7M" frameborder="0" allowfullscreen></iframe>
+

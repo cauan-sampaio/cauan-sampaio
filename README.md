@@ -29,8 +29,10 @@
   </a> 
 </div>
 ### Automação com Cypress em ação!
-Assista ao vídeo abaixo para ver a minha automação em ação:
+Assista ao vídeos abaixo para ver a minha automação em ação:
 
 [![Assista ao vídeo](https://img.youtube.com/vi/6XYkE9zvn7M/0.jpg)](https://www.youtube.com/watch?v=6XYkE9zvn7M)
+[![Assista ao vídeo](https://img.youtube.com/vi/2--GiaQ-MNc/0.jpg)](https://youtu.be/2--GiaQ-MNc)
+
 
 
